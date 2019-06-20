@@ -3,19 +3,12 @@
     width: 100%;
     height: 50px;
     background-color: #000;
-    margin: 10px 0; 
-}
-
-@media (min-width: 768px) {
-    .column {
-        background-color: #e84610;
-        width: 30%;
-        margin: 10px;
-    }
+    margin: 0 10px; 
 }
 
 @media (min-width: 992px) {
     .column {
-        background-color: #0997d3;
+        width: 30%;
+        margin: 10px;
     }
 }
